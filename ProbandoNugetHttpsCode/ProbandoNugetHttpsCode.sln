@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbandoNugetHttpsCode", "ProbandoNugetHttpsCode\ProbandoNugetHttpsCode.csproj", "{A78A5B2B-CBA1-45AD-A9AF-C25F08C68977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A78A5B2B-CBA1-45AD-A9AF-C25F08C68977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78A5B2B-CBA1-45AD-A9AF-C25F08C68977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78A5B2B-CBA1-45AD-A9AF-C25F08C68977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78A5B2B-CBA1-45AD-A9AF-C25F08C68977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29ABEB50-0BF1-4489-A97F-48EAF761F0E4}
+	EndGlobalSection
+EndGlobal

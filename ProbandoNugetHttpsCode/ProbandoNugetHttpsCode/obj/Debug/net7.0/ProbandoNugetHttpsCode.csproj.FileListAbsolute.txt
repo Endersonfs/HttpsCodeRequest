@@ -1,0 +1,17 @@
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\bin\Debug\net7.0\ProbandoNugetHttpsCode.exe
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\bin\Debug\net7.0\ProbandoNugetHttpsCode.deps.json
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\bin\Debug\net7.0\ProbandoNugetHttpsCode.runtimeconfig.json
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\bin\Debug\net7.0\ProbandoNugetHttpsCode.dll
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\bin\Debug\net7.0\ProbandoNugetHttpsCode.pdb
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\bin\Debug\net7.0\HttpsCodeRequest.dll
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ProbandoNugetHttpsCode.csproj.AssemblyReference.cache
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ProbandoNugetHttpsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ProbandoNugetHttpsCode.AssemblyInfoInputs.cache
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ProbandoNugetHttpsCode.AssemblyInfo.cs
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ProbandoNugetHttpsCode.csproj.CoreCompileInputs.cache
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ProbandoNugetHttpsCode.csproj.CopyComplete
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ProbandoNugetHttpsCode.dll
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\refint\ProbandoNugetHttpsCode.dll
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ProbandoNugetHttpsCode.pdb
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ProbandoNugetHttpsCode.genruntimeconfig.cache
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\ProbandoNugetHttpsCode\ProbandoNugetHttpsCode\obj\Debug\net7.0\ref\ProbandoNugetHttpsCode.dll

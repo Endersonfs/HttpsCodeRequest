@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProbandoNugetHttpsCode/1.0.0": {
+        "dependencies": {
+          "HttpsCodeRequest": "1.0.0"
+        },
+        "runtime": {
+          "ProbandoNugetHttpsCode.dll": {}
+        }
+      },
+      "HttpsCodeRequest/1.0.0": {
+        "runtime": {
+          "lib/net7.0/HttpsCodeRequest.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProbandoNugetHttpsCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpsCodeRequest/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Az4prfcsXxPpySbV1hZBd1WsqmqpLPoMZLmSNzoyFteYQ4+QsbWdweDcMC1HOKW6L2H2/fwaGeUXP/J7kzzK1Q==",
+      "path": "httpscoderequest/1.0.0",
+      "hashPath": "httpscoderequest.1.0.0.nupkg.sha512"
+    }
+  }
+}
