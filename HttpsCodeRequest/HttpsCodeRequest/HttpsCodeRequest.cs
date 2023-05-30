@@ -8,7 +8,10 @@ using System.Threading.Tasks;
 
 namespace HttpsCodeRequest
 {
-    public enum HttpStatusCode
+    /// <summary>
+    /// Enum donde estan todos los codigo con su descripcion
+    /// </summary>
+    public enum HttpsCode
     {
         [Description("The server has received the request headers and the client should proceed to send the request body (in the case of a request for which a body needs to be sent; for example, a POST request). Sending a large request body to a server after a request has been rejected for inappropriate headers would be inefficient. To have a server check the request's headers, a client must send Expect: 100-continue as a header in its initial request and receive a 100 Continue status code in response before sending the body. If the client receives an error code such as 403 (Forbidden) or 405 (Method Not Allowed) then it should not send the request's body. The response 417 Expectation Failed indicates that the request should be repeated without the Expect header as it indicates that the server does not support expectations (this is the case, for example, of HTTP/1.0 servers).")]
         Continue = 100,
@@ -79,7 +82,10 @@ namespace HttpsCodeRequest
         NotExtended = 510,
         NetworkAuthenticationRequired = 511
     }
-    public static class HttpsCode 
+    /// <summary>
+    /// Clase para los HttpsCode, encargada de devolver la descripcion de los codigos
+    /// </summary>
+    public static class HttpStatusCode
     {
         /// <summary>
         /// Metodo para tener la descripcion de los HttpsCode.
@@ -93,12 +99,12 @@ namespace HttpsCodeRequest
             return attr.Length == 0 ? value.ToString() : (attr[0] as DescriptionAttribute).Description;
         }
 
-        // <summary>
+        /// <summary>
         /// Metodo para tener la descripcion de los HttpsCode, este metedo recibe un codigo para validar el mismo y retornar la descripcion.
         /// </summary>
         /// <param name="value"></param>
         /// <returns></returns>
-        public static string GetDescriptionWithCode(Enum code)
+        public static string GetDescriptionByCode(Enum code)
         {
             var field = code.GetType().GetField(code.ToString());
             var attr = field.GetCustomAttributes(typeof(DescriptionAttribute), false);
