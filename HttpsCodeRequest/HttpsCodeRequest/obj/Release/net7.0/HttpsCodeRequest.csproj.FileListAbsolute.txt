@@ -1,0 +1,12 @@
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\bin\Release\net7.0\HttpsCodeRequest.deps.json
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\bin\Release\net7.0\HttpsCodeRequest.dll
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\bin\Release\net7.0\HttpsCodeRequest.pdb
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\obj\Release\net7.0\HttpsCodeRequest.csproj.AssemblyReference.cache
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\obj\Release\net7.0\HttpsCodeRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\obj\Release\net7.0\HttpsCodeRequest.AssemblyInfoInputs.cache
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\obj\Release\net7.0\HttpsCodeRequest.AssemblyInfo.cs
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\obj\Release\net7.0\HttpsCodeRequest.csproj.CoreCompileInputs.cache
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\obj\Release\net7.0\HttpsCodeRequest.dll
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\obj\Release\net7.0\refint\HttpsCodeRequest.dll
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\obj\Release\net7.0\HttpsCodeRequest.pdb
+C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\obj\Release\net7.0\ref\HttpsCodeRequest.dll

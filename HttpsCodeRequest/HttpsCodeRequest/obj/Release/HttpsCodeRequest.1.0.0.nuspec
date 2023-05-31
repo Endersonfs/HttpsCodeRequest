@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HttpsCodeRequest</id>
+    <version>1.0.0</version>
+    <authors>Enderson Florian Solano</authors>
+    <readme>README.md</readme>
+    <description>Package to have all the HttpCode with their description</description>
+    <tags>httpcode</tags>
+    <repository type="git" url="https://github.com/Endersonfs/HttpsCodeRequest" />
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\HttpsCodeRequest\HttpsCodeRequest\bin\Release\net7.0\HttpsCodeRequest.dll" target="lib\net7.0\HttpsCodeRequest.dll" />
+    <file src="C:\Users\EndersonFlorian\Documents\Enderson\HttpsCodeRequest\README.md" target="\README.md" />
+  </files>
+</package>

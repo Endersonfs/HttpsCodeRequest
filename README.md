@@ -1,10 +1,8 @@
 HTTP response status codes
 ============
- [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://igorantun.com/chat)
- 
-HTTP response status codes indicate whether a specific `HTTP` request has been successfully completed. Responses are grouped in five classes:
+ [![Current Version](https://img.shields.io/badge/version-1.0.1-green.svg)](https://github.com/Endersonfs/HttpsCodeRequest)
 
-<!-- ![Chat Preview](http://i.imgur.com/lgRe8z4.png) -->
+HTTP response status codes indicate whether a specific `HTTP` request has been successfully completed.
 
 ---
 ## Buy me a coffee
@@ -30,22 +28,35 @@ Whether you use this project, have learned something from it, or just like it, p
 ---
 
 ## Setup
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
-
-You might want to look into `config.json` to make change the port you want to use and set up a SSL certificate.
+#### .net CLI  .net 7
+dotnet add package HttpsCodeRequest --version 1.0.1
 
 ---
 
 ## Usage
-After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
 
-Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
+>Directive import
 
-To give yourself administrator permissions on the chat, you will have to type `/role [your-name]` in the app console.
+ - using HttpsCodeRequest;
 
----
+>Return Value (OK)
 
-## License
+ - Console.WriteLine(HttpsCode.OK); 
+
+>Return Code (200)
+
+ - Console.WriteLine((int)HttpsCode.OK); 
+
+>Return Descrption
+
+ - Console.WriteLine(HttpsCode.OK.GetDescription());
+
+ - Console.WriteLine(HttpStatusCode.GetDescriptionByCode(HttpsCode.Continue));
+
+
+<!-- --- -->
+
+<!-- ## License
 >You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
 
-This project is licensed under the terms of the **MIT** license.
+This project is licensed under the terms of the **MIT** license. -->

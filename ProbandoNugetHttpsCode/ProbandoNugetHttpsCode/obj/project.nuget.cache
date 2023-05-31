@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Pp1SJqcN+zv1rgKOAaNeIAi+KwRT0OE+Kn8+K4dY4AKe87DLVNQM+WEWSdGKClXXNj2HN3Pf7eJTj6amMsQrRA==",
+  "dgSpecHash": "dc/UcoqI4H9SC1tm9C2kgosMJ7i71lqZVBIyn7beeAH/d7AcR1jGWIXMzq1GjomGsNu6InJOF/6K4x31nz20Rw==",
   "success": true,
   "projectFilePath": "C:\\Users\\EndersonFlorian\\Documents\\Enderson\\HttpsCodeRequest\\ProbandoNugetHttpsCode\\ProbandoNugetHttpsCode\\ProbandoNugetHttpsCode.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\EndersonFlorian\\.nuget\\packages\\httpscoderequest\\1.0.0\\httpscoderequest.1.0.0.nupkg.sha512"
+    "C:\\Users\\EndersonFlorian\\.nuget\\packages\\httpscoderequest\\1.0.1\\httpscoderequest.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }
