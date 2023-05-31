@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "HttpsCodeRequest/1.0.1": {
+      "HttpsCodeRequest/1.0.2": {
         "type": "package",
         "compile": {
           "lib/net7.0/HttpsCodeRequest.dll": {}
@@ -14,23 +14,24 @@
     }
   },
   "libraries": {
-    "HttpsCodeRequest/1.0.1": {
-      "sha512": "Dn2iybsPsQLjj//x16SnokbzxCnO44pJvaVyaUl5PBkwU2EDDfHyTA5B38XtfnegMZ3cHZddseZE14NREKmpRg==",
+    "HttpsCodeRequest/1.0.2": {
+      "sha512": "au8KydoHYfPZI0Q8BikFD0dcN+72W2LE9lIZ6dIMaqc50OPOEeX6AUEkNzIACskAv/F/SqniceVV1eSozL7NFg==",
       "type": "package",
-      "path": "httpscoderequest/1.0.1",
+      "path": "httpscoderequest/1.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "READMENUGET.md",
-        "httpscoderequest.1.0.1.nupkg.sha512",
+        "httpscoderequest.1.0.2.nupkg.sha512",
         "httpscoderequest.nuspec",
+        "icon.png",
         "lib/net7.0/HttpsCodeRequest.dll"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "HttpsCodeRequest >= 1.0.1"
+      "HttpsCodeRequest >= 1.0.2"
     ]
   },
   "packageFolders": {
@@ -80,7 +81,7 @@
         "dependencies": {
           "HttpsCodeRequest": {
             "target": "Package",
-            "version": "[1.0.1, )"
+            "version": "[1.0.2, )"
           }
         },
         "imports": [

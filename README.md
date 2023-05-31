@@ -1,6 +1,6 @@
 HTTP response status codes
 ============
- [![Current Version](https://img.shields.io/badge/version-1.0.2-green.svg)](https://github.com/Endersonfs/HttpsCodeRequest)
+[![Latest version](https://img.shields.io/nuget/v/HttpCode.Core.svg)](https://www.nuget.org/packages/HttpsCodeRequest) 
 
 HTTP response status codes indicate whether a specific `HTTP` request has been successfully completed.
 
