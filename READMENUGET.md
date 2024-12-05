@@ -1,6 +1,6 @@
 HTTP response status codes
 ============
- [![Current Version](https://img.shields.io/badge/version-1.0.3-green.svg)](https://github.com/Endersonfs/HttpsCodeRequest)
+ [![Current Version](https://img.shields.io/badge/version-1.0.4-green.svg)](https://github.com/Endersonfs/HttpsCodeRequest)
 
 HTTP response status codes indicate whether a specific `HTTP` request has been successfully completed.
 
