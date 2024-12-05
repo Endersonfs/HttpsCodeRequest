@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package to have all the HttpCode with their description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+3b1983832baf6d1c12304ed4d968a9ecf76b9765")]
 [assembly: System.Reflection.AssemblyProductAttribute("HttpsCodeRequest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HttpsCodeRequest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
